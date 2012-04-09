@@ -2,7 +2,7 @@ import java.awt.event.KeyEvent;
 
 /** Pacman class for Pacman game
  * 
- * @author fry4, horn5
+ * @author horn5
  *
  */
 
