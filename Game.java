@@ -1,7 +1,6 @@
-
 /** Game class for PacMan game
  * 
- * @author fry4, horn5
+ * @author horn5
  *
  */
 
