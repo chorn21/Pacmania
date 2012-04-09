@@ -1,7 +1,6 @@
-
 /** Represents the dots that PacMan eats for points.
  * 
- * @author fry4, horn5
+ * @author horn5
  *
  */
 public class Point {
